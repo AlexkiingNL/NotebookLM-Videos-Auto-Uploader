@@ -1,5 +1,15 @@
 # NotebookLM Videos Auto-Uploader 🚀
 
+> **⚠️ Important: File Size Limit**
+> **💡 Companion Tool: Handle Large Files (>200MB)**
+> Google NotebookLM has a strict **200MB upload limit** per file.
+>
+> If your videos are larger than 200MB, please use my companion tool to compress or split them first:
+> 👉 **[Smart Video Compress & Split Tool](https://github.com/AlexkiingNL/video-compress-spilt)**
+> *(Note: This tool is optimized for macOS. Windows/Linux users may need to adjust the code slightly.)*
+
+---
+
 An automated Python script to batch upload local MP4 videos to Google NotebookLM.
 
 ## Motivation
