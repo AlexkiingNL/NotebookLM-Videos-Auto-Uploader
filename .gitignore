@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+
+# Video files (Don't upload large videos to GitHub!)
+*.mp4
+*.mov
+*.avi
+uploaded/
